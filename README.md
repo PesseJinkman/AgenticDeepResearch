@@ -38,7 +38,7 @@ AgenticDeepResearch/
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/AgenticDeepResearch.git
+git clone https://github.com/PesseJinkman/AgenticDeepResearch.git
 cd AgenticDeepResearch
 pip install -r requirements.txt
 ```
